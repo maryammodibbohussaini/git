@@ -1,1 +1,4 @@
+<!Doctype html>
 <h1>hello world </h1>
+<h2>hello you too </h2>
+<h4>yes you </h4>
